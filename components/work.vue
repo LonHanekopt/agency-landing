@@ -18,11 +18,11 @@ const projects = [
         url: 'https://example.com/crm',
         images: ['/e.png']
     },
-    {
-        name: 'Stocks App',
-        url: 'https://example.com/stocks',
-        images: ['/stocks2.png']
-    }
+    // {
+    //     name: 'Stocks App',
+    //     url: 'https://example.com/stocks',
+    //     images: ['/stocks2.png']
+    // }
 ]
 </script>
 
